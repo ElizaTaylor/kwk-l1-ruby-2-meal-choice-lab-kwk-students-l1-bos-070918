@@ -26,7 +26,7 @@ end
 #puts #{breakfast} 
 
 # Call your methods without any arguments here
-puts snacks
+#puts snacks
 puts breakfast
 puts lunch
 puts dinner 
