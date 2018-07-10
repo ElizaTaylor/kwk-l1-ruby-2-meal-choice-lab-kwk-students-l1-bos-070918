@@ -16,7 +16,7 @@ end
 
 def dinner(food="salmon")
   puts "dinner is the best time for #{dinner}"
-
+end
 
 # Call the methods with puts and your own arguments here. Like this:
 #snacks(food="sweedish fish")
